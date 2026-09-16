@@ -1,211 +1,148 @@
-# Awesome-Pipeline-Inspection-Platform
+# 🔍 Awesome Pipeline Inspection Platform & Revenue Intelligence Ecosystem 🚀
 
-## Top Pipeline Inspection Platforms Ecosystem
+![Pipeline Inspection Banner](./assets/banner.svg)
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+<p center>
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Pipeline-Inspection-Platform"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Pipeline-Inspection-Platform?style=social" alt="GitHub stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Pipeline-Inspection-Platform/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Pipeline-Inspection-Platform?style=social" alt="GitHub forks"/></a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-*Focused on Sales Pipeline Visibility, Deal Inspection, Revenue Forecasting, Conversation Intelligence & Forecast Accuracy*
+## 📌 Top Pipeline Inspection Platforms Ecosystem
 
-**Last updated: September 2026**
+**Curated List of SaaS Products & Open-Source GitHub Projects** 📊
 
+*Focused on Sales Pipeline Visibility, Deal Inspection, Revenue Forecasting, Conversation Intelligence, Revenue Operations (RevOps) & Forecast Accuracy* 🎯
 
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Pipeline Inspection**. These tools help revenue teams inspect deals, improve forecast accuracy, surface risks, and gain visibility into pipeline health—often by combining CRM data, activity signals, and conversation intelligence.
-
-
-
-**Examples** include Scratchpad, Attention, People.ai, Gong, Clari, BoostUp, Salesroom, Salesken, Revenue Grid, and Veloxy (the category leaders).
-
-
-
-**Open-source emphasis**: Full revenue-intelligence and pipeline-inspection platforms are almost entirely commercial. Open options exist mainly as experimental forecasting engines, open CRM pipeline views, and ML-based deal-scoring projects. This section lists the strongest available open resources and is realistic about the gap.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-- **[Scratchpad](https://www.scratchpad.com/)**  
-
-  Pipeline inspection and sales workspace tool that helps reps and managers update and review deals with a focus on CRM hygiene and visibility.
-
-
-
-- **[Attention](https://www.attention.com/)**  
-
-  Revenue platform combining conversation intelligence and pipeline insights for sales teams.
-
-
-
-- **[People.ai](https://www.people.ai/)**  
-
-  Revenue intelligence platform that captures activity data and provides pipeline and deal insights for go-to-market teams.
-
-
-
-- **[Gong](https://www.gong.io/)**  
-
-  Leading conversation intelligence and revenue platform that analyzes calls and meetings to improve deal visibility and coaching.
-
-
-
-- **[Clari](https://www.clari.com/)**  
-
-  Revenue platform focused on forecasting, pipeline inspection, and predicting whether the team will hit the number.
-
-
-
-- **[BoostUp](https://www.boostup.ai/)**  
-
-  Revenue intelligence and forecasting platform that provides pipeline visibility and deal risk insights.
-
-
-
-- **[Salesroom](https://www.salesroom.com/)**  
-
-  Platform supporting modern sales conversations and related pipeline workflows.
-
-
-
-- **[Salesken](https://www.salesken.ai/)**  
-
-  Conversation intelligence and sales AI tools that assist with deal insights and coaching.
-
-
-
-- **[Revenue Grid](https://www.revenuegrid.com/)**  
-
-  Revenue intelligence platform offering pipeline visibility, forecasting, and activity capture.
-
-
-
-- **[Veloxy](https://www.veloxy.com/)**  
-
-  Sales acceleration and pipeline management tools for improving visibility and execution.
-
-
-
-## Open-Source GitHub Projects
-
-- **[Experimental open sales forecasting engines](https://github.com/)**  
-
-  Community and initiative projects aiming to provide CRM-integrated, ML-based pipeline forecasting and deal health scoring.
-
-
-
-- **[Open CRM and pipeline tools (e.g., Meow and similar)](https://github.com/)**  
-
-  Lightweight open-source CRM and sales pipeline dashboards with Kanban-style deal tracking and basic forecasting views.
-
-
-
-- **[CRM data model and analytics open projects](https://github.com/)**  
-
-  Open schemas, SQL analytics, and dashboards for pipeline health, win rates, stage conversion, and forecast roll-ups.
-
-
-
-- **[Machine-learning deal scoring open notebooks](https://github.com/)**  
-
-  Research and prototype repositories that train models on historical opportunity data to predict close probability.
-
-
-
-- **[Activity capture and email/calendar open helpers](https://github.com/)**  
-
-  Open tools for extracting signals from email and calendar that can feed pipeline inspection logic.
-
-
-
-- **[Conversation transcription and analysis open stacks](https://github.com/)**  
-
-  Combinations of open speech-to-text and NLP libraries that can surface insights from sales calls (complementary to full conversation intelligence).
-
-
-
-- **[Forecasting and time-series open libraries](https://github.com/)**  
-
-  General open forecasting tools (Prophet, scikit-learn based, etc.) applied to pipeline and bookings data.
-
-
-
-- **[RevOps dashboard open templates](https://github.com/)**  
-
-  Open BI templates for visualizing pipeline coverage, aging, and forecast categories.
-
-
-
-- **[CRM integration open connectors](https://github.com/)**  
-
-  Scripts and libraries for reading opportunity and activity data from Salesforce, HubSpot, and similar systems.
-
-
-
-- **[Explainable AI open components](https://github.com/)**  
-
-  Tools (SHAP and similar) used to make deal scores and forecast adjustments more interpretable.
-
-
-
-### Additional Strong Open-Source Options
-
-- Building internal pipeline dashboards and basic forecasting on top of CRM data with open tools.
-
-- Using open ML notebooks for experimental deal scoring and risk flagging.
-
-- Combining open CRM pipeline views with commercial conversation intelligence or forecasting platforms.
-
-- Accepting that automated activity capture at scale, sophisticated conversation intelligence, enterprise-grade forecast accuracy, and multi-CRM revenue databases still require commercial platforms (Gong, Clari, People.ai, BoostUp, etc.).
-
-- Focusing open-source efforts on transparency, custom analytics, and data ownership rather than replacing full revenue intelligence suites.
-
-
-
-**Frameworks for building custom systems**: Extract opportunity and activity data from CRM → apply open forecasting or scoring models → surface risks and coverage gaps in dashboards → optionally layer open transcription/NLP for call insights. Suitable for RevOps teams with data capacity. Most revenue organizations continue to rely on commercial platforms for daily pipeline inspection and forecasting workflows.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Pipeline inspection and forecasting tools process sensitive sales and customer data. Ensure proper access controls, data governance, and compliance with privacy regulations. Open-source or self-built solutions require ongoing maintenance and validation. Forecasts are estimates only. This list is not sales or financial advice.
-
-
+**Last updated: September 2026** 📅
 
 ---
 
-**Made for CROs, RevOps, sales managers, and revenue teams who need clearer pipeline visibility.**
+### 💡 Overview & Market Dynamics
 
-Let's keep pipeline inspection data-driven, accurate, and as open as practical.
+This repository tracks notable **SaaS platforms** and **open-source projects** for **Pipeline Inspection** and **Revenue Intelligence**. These tools help go-to-market (GTM) teams inspect deals, improve forecast accuracy, surface win/loss risks, and gain visibility into pipeline health—often by combining CRM opportunity data, sales activity signals, and conversation intelligence. 📈
+
+> 📊 **Market Size & Sector Structure**: The global Revenue Intelligence & Pipeline Inspection software market size is estimated at **$2.5B–$3.5B in 2026** (projected to reach **$8B+ by 2032** at ~15% CAGR). The market is **moderately fragmented** with enterprise market consolidation around category titans like Gong and Clari, while specialized AI agents (e.g. Attention, Scratchpad) rapidly capture mid-market market share.
+
+---
+
+## 📑 Table of Contents
+
+- [🏢 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚠️ Disclaimer](#-disclaimer)
+- [📈 Star History](#-star-history)
+
+---
+
+## 🏢 SaaS/Hosted Platforms
+
+SaaS pipeline inspection solutions offer turnkey CRM synchronization, AI-guided deal risk detection, and automated sales activity capture. Below is the curated list sorted by **Company Size / Valuation / Revenue (descending)**:
+
+| Product | Description | Company Size / Valuation / Revenue | Starting Tier Price | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| 🦣 **[Gong](https://www.gong.io/)** | Category-defining conversation intelligence & revenue platform analyzing calls/emails for pipeline health. | **$500M+ ARR** / ~$4.5B–$7.25B Valuation (Large Enterprise) | Sales-led custom quote (~$1,000 - $1,600 / user / year + base platform fee) | No public free trial; sales-managed pilots (14–30 days) available on request. |
+| 🎯 **[Clari](https://www.clari.com/)** | Enterprise revenue platform focused on predictive forecasting, pipeline inspection, and revenue leakage prevention. | **~$450M ARR** / $2.6B Valuation (Enterprise) | Sales-led custom quote (~$100 - $120 / user / month estimated entry) | No free tier; custom evaluation demo available on request. |
+| 🤖 **[People.ai](https://www.people.ai/)** | Revenue intelligence engine capturing activity data & engagement metrics to guide pipeline management. | **~$63M–$78M ARR** / $1.1B Valuation (Unicorn) | Sales-led custom quote (~$50 - $100 / user / month estimated entry) | No free tier; sales demo / pilot available on request. |
+| ⚡ **[Attention](https://www.attention.com/)** | AI-native revenue platform combining automated call summaries, CRM updates, and real-time deal risk tracking. | **~$11.6M ARR** / ~$100M–$300M Valuation ($30M Series B) | Sales-led custom quote (~$99 / user / month estimated entry) | No free tier; live demo and custom pilot on request. |
+| 📈 **[BoostUp](https://www.boostup.ai/)** | Revenue intelligence and forecasting platform providing deal risk scoring and pipeline coverage analysis. | **~$10.8M ARR** / VC-backed Mid-Market | Sales-led custom quote (~$79 / user / month estimated entry) | No free tier; custom demo available on request. |
+| ⌨️ **[Scratchpad](https://www.scratchpad.com/)** | Fast sales workspace and pipeline inspection interface for Salesforce reps and RevOps managers. | **~$10.1M ARR** / VC-backed (Series B) | $19 / user / month (Solo plan) | **Free forever plan** available (limited to 3 workspace views, 100 AI credits/user/month, 10 hrs call recording/month). |
+| 🧠 **[Salesken](https://www.salesken.ai/)** | AI conversation intelligence & sales coaching platform providing pipeline insights and real-time playbook assistance. | **~$17.9M ARR** / $95M Valuation | $99 / user / month (Base recorded user tier + platform fee) | No permanent free tier; proof-of-concept / trial available via sales contact. |
+| 📊 **[Revenue Grid](https://www.revenuegrid.com/)** | Revenue intelligence suite offering automated activity capture, pipeline visibility, and guided selling. | **~$15M–$25M Revenue** / Growth-stage | $30 / user / month (Activity Capture 360 plan) | **14-day full-featured free trial** available. |
+| 📱 **[Veloxy](https://www.veloxy.com/)** | Mobile-first sales acceleration and pipeline management solution for field and inside sales teams. | **~$5.7M ARR** / Growth-stage | $25 / user / month (Lite plan) | **14-day free trial** (full-featured, time-limited). |
+| 📹 **[Salesroom](https://www.salesroom.com/)** | Live video meeting platform built specifically for sales reps with integrated real-time pipeline notes and intelligence. | Early-stage VC-backed | $29 / user / month (Standard plan) | No public free plan; demo and trial on request. |
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+Open-source options allow RevOps teams, data engineers, and ML researchers to build self-hosted CRM pipelines, custom deal scoring models, and time-series sales forecasting algorithms. Below is the list sorted by **GitHub Stars (descending)**:
+
+- 🛠️ **[Twenty](https://github.com/TwentyHQ/twenty)** [<img src="https://img.shields.io/github/stars/TwentyHQ/twenty?style=social&color=white" alt="Twenty Stars"/>](https://github.com/TwentyHQ/twenty/stargazers)  
+  Modern open-source CRM platform providing full pipeline Kanban boards, opportunity management, custom fields, and customizable workflow automations.
+
+- 🧮 **[SHAP](https://github.com/shap/shap)** [<img src="https://img.shields.io/github/stars/shap/shap?style=social&color=white" alt="SHAP Stars"/>](https://github.com/shap/shap/stargazers)  
+  Game-theoretic approach (SHapley Additive exPlanations) used by RevOps data teams for explainable AI deal scoring and pipeline stage conversion modeling.
+
+- 🔮 **[Prophet](https://github.com/facebook/prophet)** [<img src="https://img.shields.io/github/stars/facebook/prophet?style=social&color=white" alt="Prophet Stars"/>](https://github.com/facebook/prophet/stargazers)  
+  Automatic time-series forecasting procedure by Meta, widely used for predicting monthly/quarterly sales pipeline volume and revenue trends.
+
+- 📊 **[Kats](https://github.com/facebookresearch/Kats)** [<img src="https://img.shields.io/github/stars/facebookresearch/Kats?style=social&color=white" alt="Kats Stars"/>](https://github.com/facebookresearch/Kats/stargazers)  
+  Meta's lightweight library for time-series analysis, forecasting sales metrics, detecting pipeline anomalies, and predicting revenue drift.
+
+- 🦁 **[Merlion](https://github.com/Salesforce/merlion)** [<img src="https://img.shields.io/github/stars/Salesforce/merlion?style=social&color=white" alt="Merlion Stars"/>](https://github.com/Salesforce/merlion/stargazers)  
+  Salesforce's Python framework for time series intelligence, offering automated anomaly detection and forecasting tailored for enterprise CRM datasets.
+
+- 🌌 **[NeuralProphet](https://github.com/ourownstory/neural_prophet)** [<img src="https://img.shields.io/github/stars/ourownstory/neural_prophet?style=social&color=white" alt="NeuralProphet Stars"/>](https://github.com/ourownstory/neural_prophet/stargazers)  
+  PyTorch-based neural time-series forecasting model combining traditional additive decomposition with deep learning for complex sales funnel predictions.
+
+- 📋 **[Frappe CRM](https://github.com/frappe/crm)** [<img src="https://img.shields.io/github/stars/frappe/crm?style=social&color=white" alt="Frappe CRM Stars"/>](https://github.com/frappe/crm/stargazers)  
+  Modern, open-source lead & deal management software built on the Frappe framework with pipeline stage tracking and sales analytics.
+
+- 🔌 **[Simple Salesforce](https://github.com/simple-salesforce/simple-salesforce)** [<img src="https://img.shields.io/github/stars/simple-salesforce/simple-salesforce?style=social&color=white" alt="Simple Salesforce Stars"/>](https://github.com/simple-salesforce/simple-salesforce/stargazers)  
+  A basic, clean REST API client for Salesforce used to extract pipeline opportunity records and sync activity logs into custom analytics data warehouses.
+
+- 🟧 **[HubSpot API Python Client](https://github.com/hubspot/hubspot-api-python)** [<img src="https://img.shields.io/github/stars/hubspot/hubspot-api-python?style=social&color=white" alt="HubSpot API Python Stars"/>](https://github.com/hubspot/hubspot-api-python/stargazers)  
+  Official Python v3 SDK for HubSpot APIs to query deal stages, pipeline changes, and sales activities for custom inspection workflows.
+
+- 🚀 **[Sales Forecast MLOps at Scale](https://github.com/jomariya23156/sales-forecast-mlops-at-scale)** [<img src="https://img.shields.io/github/stars/jomariya23156/sales-forecast-mlops-at-scale?style=social&color=white" alt="Sales Forecast MLOps Stars"/>](https://github.com/jomariya23156/sales-forecast-mlops-at-scale/stargazers)  
+  Production-ready open architecture demonstrating real-time sales forecasting with Kafka, Ray/Spark ML retraining, and Grafana pipeline dashboards.
+
+---
+
+### 🧩 Open-Source Architecture Frameworks
+
+Revenue operations and data science teams building custom pipeline inspection engines typically combine open-source modules as follows:
+
+```
+Extract CRM Deals (Simple Salesforce / HubSpot SDK) 
+  ➔ Feature Store & Activity Capture 
+  ➔ ML Deal Risk Scoring (SHAP / Scikit-Learn) 
+  ➔ Revenue Time-Series Forecast (Prophet / Merlion) 
+  ➔ Pipeline Visualization Dashboard (Twenty / Frappe CRM)
+```
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are always welcome! 🌟
+
+1. 🍴 Fork the repository.
+2. 📝 Add or edit entries in `README.md` maintaining the existing Markdown table / list format.
+3. 🔗 Ensure all SaaS and open-source project links are official and working.
+4. 📥 Submit a Pull Request (PR) with a short description of your changes.
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated ecosystem list helpful for your RevOps strategy or engineering project, please consider supporting the project! ⭐
+
+- 🌟 **Star this repository** on GitHub to increase visibility.
+- 🔀 **Fork this repository** to customize your own team list.
+- 📢 **Share it** with your RevOps, CRO, and engineering colleagues!
+- ☕ **Buy a coffee / Sponsor**: Support ongoing maintenance via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚠️ Disclaimer
+
+- This repository is a **community-curated index** — provided for informational and research purposes only.
+- Pipeline inspection and deal forecasting platforms handle sensitive customer and sales pipeline data. Ensure proper data governance, privacy compliance (GDPR/CCPA), and CRM security.
+- Forecasts generated by any software are estimates only.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Pipeline-Inspection-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Pipeline-Inspection-Platform&type=date&legend=top-left)
+
+---
+
+<p align="center">
+  <b>Made with ❤️ for CROs, RevOps leaders, Sales Managers, and Revenue Engineers seeking complete pipeline visibility.</b>
+</p>
