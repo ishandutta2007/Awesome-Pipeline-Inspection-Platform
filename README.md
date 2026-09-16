@@ -4,7 +4,7 @@
 
 <p center>
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Pipeline-Inspection-Platform"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Pipeline-Inspection-Platform?style=social" alt="GitHub stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Pipeline-Inspection-Platform"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Pipeline-Inspection-Platform?style=social" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Pipeline-Inspection-Platform/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Pipeline-Inspection-Platform?style=social" alt="GitHub forks"/></a>
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -59,7 +59,7 @@ SaaS pipeline inspection solutions offer turnkey CRM synchronization, AI-guided 
 
 ## 🔓 Open-Source GitHub Projects
 
-Open-source options allow RevOps teams, data engineers, and ML researchers to build self-hosted CRM pipelines, custom deal scoring models, and time-series sales forecasting algorithms. Below is the list sorted by **GitHub Stars (descending)**:
+Open-source options allow RevOps teams, data engineers, and ML researchers to build self-hosted CRM pipelines, custom deal scoring models, and time-series sales forecasting algorithms. Below is the list sorted by **GitHub_Stars (descending)**:
 
 - 🛠️ **[Twenty](https://github.com/TwentyHQ/twenty)** [<img src="https://img.shields.io/github/stars/TwentyHQ/twenty?style=social&color=white" alt="Twenty Stars"/>](https://github.com/TwentyHQ/twenty/stargazers)  
   Modern open-source CRM platform providing full pipeline Kanban boards, opportunity management, custom fields, and customizable workflow automations.
